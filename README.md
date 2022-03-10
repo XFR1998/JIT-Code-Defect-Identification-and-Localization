@@ -37,14 +37,14 @@ cc2vec模型的向量特征：code changes features
 
 **⭐如下论文对这个数据集做了扩充，并增多了4个项目：**  
 **(ISSTA-2021) 《Deep Just-in-Time Defect Prediction How Far Are We？》**
-![image](https://user-images.githubusercontent.com/65661019/156569647-01fab139-cac2-4a1f-88e1-3c87451d92aa.png)
+![image](https://user-images.githubusercontent.com/65661019/156569647-01fab139-cac2-4a1f-88e1-3c87451d92aa.png)  
 
-github链接：https://github.com/ZZR0/ISSTA21-JIT-DP
+github链接：https://github.com/ZZR0/ISSTA21-JIT-DP  
 
-**其它模型链接：**
-1.CC2VEC（预测）：https://github.com/CC2Vec/CC2Vec
-2.DeepJIT（预测）：https://github.com/hvdthong/DeepJIT_updated
-3.JITLine（预测+定位）：http://doi.org/10.5281/zenodo.4433498
-4.N-gram（预测+定位）  https://github.com/MengYan1989/JITDIL
+**其它模型链接：**  
+1.CC2VEC（预测）：https://github.com/CC2Vec/CC2Vec  
+2.DeepJIT（预测）：https://github.com/hvdthong/DeepJIT_updated  
+3.JITLine（预测+定位）：http://doi.org/10.5281/zenodo.4433498  
+4.N-gram（预测+定位）  https://github.com/MengYan1989/JITDIL  
 
 
